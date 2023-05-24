@@ -1,6 +1,6 @@
 body {
     background-color: #ebebeb;
-    
+    color:#817a83;
     font-family: 'Open Sans', sans-serif;
     text-align: left;
     gap: 20px;
@@ -27,9 +27,9 @@ h2 {
     align-items: center;
     justify-content: center;
     text-align: justify;
-    color:#ada8ae;
     font-size: 18px;
     padding: 30px;
+    font-weight: 300;
 }
 #presentation img {
     border-radius: 50%;
@@ -59,11 +59,12 @@ li,a {
     flex-direction:column;
     justify-content: center;
     align-items: center;
+    color:#d7d4d4;
     gap: 10px;
 }
 li i, a {
     text-decoration: none;
-    color: #ada8ae;
+    
     padding: 20px;
 }
 #movies {
@@ -78,10 +79,9 @@ article {
     padding-right: 40px;
     text-align: justify;
     font-size: 16px;
-    color:#ada8ae;
+    font-weight: 300;
 }
 h2, h3 {
-    color: #817a83;
     text-align: center;
     font-weight: 500;
 }
