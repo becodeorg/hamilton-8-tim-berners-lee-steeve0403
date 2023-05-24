@@ -31,6 +31,9 @@ h2 {
     padding: 30px;
     font-weight: 300;
 }
+#presentation p {
+    padding: 30px
+}
 #presentation img {
     border-radius: 50%;
     border: 5px solid #d7d4d4;
